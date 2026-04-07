@@ -58,4 +58,4 @@ The graph shows a polynomial curve, which is consistent with the expected runtim
 
 ## Written Component
 
-Written component answers are provided in `Programming Assignment 3: Highest Value Longest Common Sequence Report.pdf`
+Written component answers are provided in `Programming Assignment 3 Highest Value Longest Common Sequence Report.pdf`
