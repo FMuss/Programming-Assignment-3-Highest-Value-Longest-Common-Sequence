@@ -1,0 +1,2 @@
+# Required only for running benchmark.py
+matplotlib
